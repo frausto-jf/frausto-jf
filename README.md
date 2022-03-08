@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Jesús</h1>
 
-**I'm studying Robotics and I like programming. I have some experience with Django and Android using Java and Firebase.**
+**Robotics Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
