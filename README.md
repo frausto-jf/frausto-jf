@@ -5,9 +5,9 @@
 <h4 align="left">Please find projects and information about:</h4>
 <p>
   <ul>
-    <li>Automation Testing</li>
-    <li>RPA (Robotic Process Automation)</li>
-    <li>Manual Testing</li>
+    <li>⚙️ Automation Testing</li>
+    <li>🤖 RPA (Robotic Process Automation)</li>
+    <li>🔍 Manual Testing</li>
   </ul>
 </p>
 
