@@ -7,6 +7,7 @@
   <ul>
     <li>⚙️ Automation Testing</li>
     <li>🤖 RPA (Robotic Process Automation)</li>
+    <li>🌐 Web Scraping</li>
     <li>🔍 Manual Testing</li>
   </ul>
 </p>
