@@ -1,5 +1,5 @@
 <h2 align="center">
-  ”The only real mistake is the one from which we learn nothing" - John Powell
+  ”The only real mistake is the one from which we learn nothing" - Henry Ford
 </h2>
 
 <h4 align="left">Please find projects and information about:</h4>
